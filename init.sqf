@@ -1,0 +1,1 @@
+ACE_maxWeightCarry=10000;
